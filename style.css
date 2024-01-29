@@ -1,0 +1,21 @@
+.heading{
+    width: 80%;
+    font-size: 30px;
+    font-family: cursive;
+}
+body{
+    background: linear-gradient(blue,purple);
+    font-family: monospace;
+    color:white;
+}
+
+.name_of_objects{
+    font-size: 18px;
+
+}
+#camera{
+    border: 2px solid white;
+    width: 350px;
+    height: 300px;
+
+}
